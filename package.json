@@ -1,0 +1,28 @@
+{
+  "name": "node-hw-1-contacts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dimagorga/node-hw-1-Contacts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dimagorga/node-hw-1-Contacts/issues"
+  },
+  "homepage": "https://github.com/dimagorga/node-hw-1-Contacts#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  },
+  "dependencies": {
+    "commander": "^8.3.0"
+  }
+}
